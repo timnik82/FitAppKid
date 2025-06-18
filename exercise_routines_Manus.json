@@ -1,0 +1,394 @@
+{
+  "safety_guidelines": [
+    "Всегда обеспечивайте надзор взрослых во время выполнения упражнений.",
+    "Убедитесь, что ребенок понимает правильную технику выполнения каждого упражнения. Фокусируйтесь на форме, а не на количестве повторений.",
+    "Начинайте с легких упражнений и постепенно увеличивайте сложность и интенсивность по мере улучшения физической подготовки ребенка.",
+    "Следите за признаками усталости или боли. Если ребенок чувствует боль, немедленно прекратите упражнение.",
+    "Обеспечьте достаточное количество воды до, во время и после тренировки.",
+    "Включите разминку перед основными упражнениями и заминку/растяжку после.",
+    "Убедитесь, что оборудование (гантели, балансировочные доски) подходит для возраста и веса ребенка.",
+    "Сделайте тренировки веселыми и разнообразными, чтобы поддерживать интерес ребенка."
+  ],
+  "exercise_routines": [
+    {
+      "category": "Разминка/активация (Warm-up/activation)",
+      "exercise_name": "Animal Walks (Bear Crawl Race)",
+      "description": "Дети передвигаются на четвереньках, имитируя движения медведя. Это упражнение разогревает все тело, улучшает координацию и укрепляет мышцы кора и плеч.",
+      "primary_muscles": [
+        "Core",
+        "Shoulders"
+      ],
+      "secondary_muscles": [
+        "Quads",
+        "Hamstrings",
+        "Glutes"
+      ],
+      "equipment": [
+        "Yoga mat"
+      ],
+      "difficulty": "Easy",
+      "progression": "Увеличить дистанцию или скорость, добавить препятствия.",
+      "sets_reps_duration": "2-3 подхода по 30-60 секунд",
+      "form_cues": [
+        "Держите спину ровной, не прогибайтесь.",
+        "Колени не касаются пола."
+      ],
+      "fun_variation": "Гонки на медвежьих лапах",
+      "basketball_skill_improvement": "Улучшает координацию, силу кора и плеч для контроля мяча и защиты.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.stack.com/a/7-safe-and-effective-strength-training-exercises-for-pre-teen-athletes/"
+    },
+    {
+      "category": "Разминка/активация (Warm-up/activation)",
+      "exercise_name": "Arm Circles (Ветряные мельницы)",
+      "description": "Дети выполняют круговые движения руками вперед и назад. Это упражнение разогревает плечевые суставы и мышцы плеч, улучшая их подвижность.",
+      "primary_muscles": [
+        "Shoulders"
+      ],
+      "secondary_muscles": [
+        "Upper Back"
+      ],
+      "equipment": [],
+      "difficulty": "Easy",
+      "progression": "Увеличить амплитуду или скорость движений.",
+      "sets_reps_duration": "2-3 подхода по 10-15 кругов в каждую сторону",
+      "form_cues": [
+        "Держите руки прямыми.",
+        "Контролируйте движение, не раскачивайте тело."
+      ],
+      "fun_variation": "Ветряные мельницы",
+      "basketball_skill_improvement": "Улучшает подвижность плеч для бросков и передач.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.verywellfit.com/a-weight-training-workout-for-children-3498516"
+    },
+    {
+      "category": "Разминка/активация (Warm-up/activation)",
+      "exercise_name": "Leg Swings (Маятник)",
+      "description": "Дети выполняют махи ногами вперед-назад и в стороны. Это упражнение разогревает тазобедренные суставы, мышцы бедер и ягодиц, улучшая их гибкость.",
+      "primary_muscles": [
+        "Hamstrings",
+        "Quads",
+        "Glutes"
+      ],
+      "secondary_muscles": [
+        "Hip Flexors"
+      ],
+      "equipment": [],
+      "difficulty": "Easy",
+      "progression": "Увеличить амплитуду махов.",
+      "sets_reps_duration": "2-3 подхода по 10-15 махов каждой ногой",
+      "form_cues": [
+        "Держите корпус стабильным.",
+        "Контролируйте движение, не раскачивайте тело."
+      ],
+      "fun_variation": "Маятник",
+      "basketball_skill_improvement": "Улучшает гибкость и подвижность ног для быстрых движений и прыжков.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.verywellfit.com/a-weight-training-workout-for-children-3498516"
+    },
+    {
+      "category": "Осанка",
+      "exercise_name": "Squats (Приседания лягушки)",
+      "description": "Дети выполняют приседания, опускаясь, как будто садятся на невидимый стул. Это упражнение укрепляет мышцы ног и ягодиц, а также улучшает осанку.",
+      "primary_muscles": [
+        "Quads",
+        "Glutes",
+        "Hamstrings"
+      ],
+      "secondary_muscles": [
+        "Core"
+      ],
+      "equipment": [],
+      "difficulty": "Easy",
+      "progression": "Увеличить количество повторений, добавить 0.5кг гантели, выполнять на одной ноге (пистолетные приседания с поддержкой).",
+      "sets_reps_duration": "2-3 подхода по 8-12 повторений",
+      "form_cues": [
+        "Спина прямая, грудь вперед.",
+        "Колени не выходят за носки."
+      ],
+      "fun_variation": "Приседания лягушки",
+      "basketball_skill_improvement": "Улучшает силу ног для прыжков, ускорений и смены направления.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.stack.com/a/7-safe-and-effective-strength-training-exercises-for-pre-teen-athletes/"
+    },
+    {
+      "category": "Осанка",
+      "exercise_name": "Plank (Доска-неваляшка)",
+      "description": "Дети удерживают тело в прямой линии, опираясь на предплечья и носки. Это упражнение отлично укрепляет мышцы кора, спины и плеч, улучшая осанку.",
+      "primary_muscles": [
+        "Core",
+        "Shoulders"
+      ],
+      "secondary_muscles": [
+        "Glutes",
+        "Quads"
+      ],
+      "equipment": [
+        "Yoga mat"
+      ],
+      "difficulty": "Medium",
+      "progression": "Увеличить время удержания, выполнять на одной руке/ноге, добавить балансировочную подушку под предплечья.",
+      "sets_reps_duration": "2-3 подхода по 20-45 секунд",
+      "form_cues": [
+        "Тело должно быть прямой линией от головы до пяток.",
+        "Не прогибайтесь в пояснице."
+      ],
+      "fun_variation": "Доска-неваляшка",
+      "basketball_skill_improvement": "Укрепляет кор для стабильности при бросках, дриблинге и защите.",
+      "balance_proprioception": true,
+      "scientific_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3445252/"
+    },
+    {
+      "category": "Осанка",
+      "exercise_name": "Glute Bridge (Мостик-ракета)",
+      "description": "Дети лежат на спине, сгибают колени и поднимают таз вверх, сжимая ягодицы. Это упражнение укрепляет ягодичные мышцы и заднюю поверхность бедра, улучшая осанку.",
+      "primary_muscles": [
+        "Glutes",
+        "Hamstrings"
+      ],
+      "secondary_muscles": [
+        "Core"
+      ],
+      "equipment": [
+        "Yoga mat"
+      ],
+      "difficulty": "Easy",
+      "progression": "Увеличить количество повторений, выполнять на одной ноге.",
+      "sets_reps_duration": "2-3 подхода по 10-15 повторений",
+      "form_cues": [
+        "Поднимайте таз до прямой линии от колен до плеч.",
+        "Сжимайте ягодицы в верхней точке."
+      ],
+      "fun_variation": "Мостик-ракета",
+      "basketball_skill_improvement": "Улучшает силу ягодиц для прыжков и ускорений.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.hss.edu/article_posterior-chain-strengthening.asp"
+    },
+    {
+      "category": "Баскетбольные мышцы",
+      "exercise_name": "Lunges (Шаги гиганта)",
+      "description": "Дети делают шаг вперед, сгибая оба колена до 90 градусов. Это упражнение укрепляет квадрицепсы, ягодицы и подколенные сухожилия, улучшает баланс.",
+      "primary_muscles": [
+        "Quads",
+        "Glutes",
+        "Hamstrings"
+      ],
+      "secondary_muscles": [
+        "Core"
+      ],
+      "equipment": [],
+      "difficulty": "Medium",
+      "progression": "Увеличить количество повторений, добавить 0.5кг гантели, выполнять на балансировочной подушке.",
+      "sets_reps_duration": "2-3 подхода по 6-8 повторений на каждую ногу",
+      "form_cues": [
+        "Переднее колено не выходит за носок.",
+        "Заднее колено почти касается пола."
+      ],
+      "fun_variation": "Шаги гиганта",
+      "basketball_skill_improvement": "Улучшает силу ног для боковых движений, ускорений и прыжков.",
+      "balance_proprioception": true,
+      "scientific_source": "https://www.stack.com/a/7-safe-and-effective-strength-training-exercises-for-pre-teen-athletes/"
+    },
+    {
+      "category": "Баскетбольные мышцы",
+      "exercise_name": "Calf Raises (Прыжки к звездам)",
+      "description": "Дети поднимаются на носки, затем опускаются. Это упражнение укрепляет икроножные мышцы.",
+      "primary_muscles": [
+        "Calves"
+      ],
+      "secondary_muscles": [],
+      "equipment": [],
+      "difficulty": "Easy",
+      "progression": "Увеличить количество повторений, выполнять на одной ноге, добавить 0.5кг гантели.",
+      "sets_reps_duration": "2-3 подхода по 10-15 повторений",
+      "form_cues": [
+        "Поднимайтесь максимально высоко на носки.",
+        "Опускайтесь медленно и контролируемо."
+      ],
+      "fun_variation": "Прыжки к звездам",
+      "basketball_skill_improvement": "Улучшает силу икроножных мышц для прыжков и быстрых стартов.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.everydayhealth.com/fitness/the-best-bodyweight-exercises-for-working-out-every-part-of-your-body/"
+    },
+    {
+      "category": "Осанка",
+      "exercise_name": "Superman (Полет Супермена)",
+      "description": "Дети лежат на животе и одновременно поднимают руки и ноги от пола, имитируя полет. Это упражнение укрепляет мышцы спины и ягодиц, улучшая осанку.",
+      "primary_muscles": [
+        "Lower Back",
+        "Glutes"
+      ],
+      "secondary_muscles": [
+        "Hamstrings",
+        "Shoulders"
+      ],
+      "equipment": [
+        "Yoga mat"
+      ],
+      "difficulty": "Easy",
+      "progression": "Увеличить время удержания, добавить небольшие круговые движения руками и ногами.",
+      "sets_reps_duration": "2-3 подхода по 10-15 секунд удержания",
+      "form_cues": [
+        "Поднимайте руки и ноги одновременно, не напрягая шею.",
+        "Держите взгляд направленным вниз."
+      ],
+      "fun_variation": "Полет Супермена",
+      "basketball_skill_improvement": "Укрепляет мышцы спины для лучшей осанки и стабильности при движениях.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.spartan.com/blogs/unbreakable-training/functional-bodyweight-workout"
+    },
+    {
+      "category": "Баскетбольные мышцы",
+      "exercise_name": "Single Leg Balance (Цапля на одной ноге)",
+      "description": "Дети стоят на одной ноге, стараясь сохранить равновесие. Это упражнение развивает баланс и проприоцепцию.",
+      "primary_muscles": [
+        "Core",
+        "Ankles",
+        "Glutes"
+      ],
+      "secondary_muscles": [
+        "Quads",
+        "Hamstrings"
+      ],
+      "equipment": [],
+      "difficulty": "Easy",
+      "progression": "Увеличить время удержания, закрыть глаза, выполнять на балансировочной подушке или доске.",
+      "sets_reps_duration": "2-3 подхода по 15-30 секунд на каждую ногу",
+      "form_cues": [
+        "Держите корпус прямо, не наклоняйтесь.",
+        "Смотрите в одну точку перед собой."
+      ],
+      "fun_variation": "Цапля на одной ноге",
+      "basketball_skill_improvement": "Критически важно для стабильности при дриблинге, бросках и резких остановках/изменениях направления.",
+      "balance_proprioception": true,
+      "scientific_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4762645/"
+    },
+    {
+      "category": "Осанка",
+      "exercise_name": "Dumbbell Rows (Гребля на лодке)",
+      "description": "Дети наклоняются вперед, держа 0.5кг гантели в руках, и подтягивают их к груди, сжимая лопатки. Укрепляет мышцы спины и плеч, улучшает осанку.",
+      "primary_muscles": [
+        "Upper Back",
+        "Shoulders"
+      ],
+      "secondary_muscles": [
+        "Biceps"
+      ],
+      "equipment": [
+        "0.5kg dumbbells"
+      ],
+      "difficulty": "Medium",
+      "progression": "Увеличить количество повторений.",
+      "sets_reps_duration": "2-3 подхода по 8-12 повторений",
+      "form_cues": [
+        "Держите спину прямой, не округляйте.",
+        "Сжимайте лопатки в верхней точке движения."
+      ],
+      "fun_variation": "Гребля на лодке",
+      "basketball_skill_improvement": "Укрепляет мышцы спины и плеч для лучшей осанки и контроля мяча.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.stack.com/a/7-safe-and-effective-strength-training-exercises-for-pre-teen-athletes/"
+    },
+    {
+      "category": "Баскетбольные мышцы",
+      "exercise_name": "Balance Board Stand (Серфинг на волнах)",
+      "description": "Дети стоят на балансировочной доске, стараясь удержать равновесие. Это упражнение отлично развивает проприоцепцию и укрепляет мышцы-стабилизаторы голеностопа и кора.",
+      "primary_muscles": [
+        "Ankles",
+        "Core"
+      ],
+      "secondary_muscles": [
+        "Calves",
+        "Quads"
+      ],
+      "equipment": [
+        "Balance board"
+      ],
+      "difficulty": "Medium",
+      "progression": "Увеличить время удержания, выполнять с закрытыми глазами, выполнять с легкими движениями руками.",
+      "sets_reps_duration": "2-3 подхода по 30-60 секунд",
+      "form_cues": [
+        "Держите взгляд направленным вперед.",
+        "Сохраняйте легкое сгибание в коленях."
+      ],
+      "fun_variation": "Серфинг на волнах",
+      "basketball_skill_improvement": "Значительно улучшает баланс и стабильность, что критически важно для всех баскетбольных движений, особенно при приземлениях и резких остановках.",
+      "balance_proprioception": true,
+      "scientific_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4762645/"
+    },
+    {
+      "category": "Заминка/Растяжка (Cool-down/Stretching), Осанка",
+      "exercise_name": "Child's Pose (Поза черепахи)",
+      "description": "Дети сидят на пятках, наклоняются вперед, вытягивая руки. Это мягкое растягивающее упражнение для спины и бедер, помогает расслабиться.",
+      "primary_muscles": [
+        "Back",
+        "Hips"
+      ],
+      "secondary_muscles": [
+        "Shoulders"
+      ],
+      "equipment": [
+        "Yoga mat"
+      ],
+      "difficulty": "Easy",
+      "progression": "Увеличить время удержания.",
+      "sets_reps_duration": "2-3 подхода по 30-60 секунд",
+      "form_cues": [
+        "Расслабьтесь и дышите глубоко.",
+        "Почувствуйте растяжение в спине."
+      ],
+      "fun_variation": "Поза черепахи",
+      "basketball_skill_improvement": "Улучшает гибкость спины, способствует расслаблению после тренировки.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.healthline.com/health/posture-exercises"
+    },
+    {
+      "category": "Заминка/Растяжка (Cool-down/Stretching)",
+      "exercise_name": "Hamstring Stretch (Достань до носков)",
+      "description": "Дети сидят на полу с вытянутыми ногами и тянутся руками к носкам. Растягивает заднюю поверхность бедра.",
+      "primary_muscles": [
+        "Hamstrings"
+      ],
+      "secondary_muscles": [
+        "Lower Back"
+      ],
+      "equipment": [
+        "Yoga mat"
+      ],
+      "difficulty": "Easy",
+      "progression": "Увеличить время удержания.",
+      "sets_reps_duration": "2-3 подхода по 20-30 секунд на каждую ногу",
+      "form_cues": [
+        "Держите спину прямой, не округляйте.",
+        "Тянитесь от бедер, а не от поясницы."
+      ],
+      "fun_variation": "Достань до носков",
+      "basketball_skill_improvement": "Улучшает гибкость подколенных сухожилий, что важно для предотвращения травм и улучшения диапазона движений.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.verywellfit.com/a-weight-training-workout-for-children-3498516"
+    },
+    {
+      "category": "Заминка/Растяжка (Cool-down/Stretching)",
+      "exercise_name": "Quad Stretch (Поза фламинго)",
+      "description": "Дети стоят и подтягивают пятку к ягодице, удерживая равновесие. Растягивает квадрицепсы.",
+      "primary_muscles": [
+        "Quads"
+      ],
+      "secondary_muscles": [
+        "Hip Flexors"
+      ],
+      "equipment": [],
+      "difficulty": "Easy",
+      "progression": "Увеличить время удержания.",
+      "sets_reps_duration": "2-3 подхода по 20-30 секунд на каждую ногу",
+      "form_cues": [
+        "Держите колени вместе.",
+        "Держите корпус прямо."
+      ],
+      "fun_variation": "Поза фламинго",
+      "basketball_skill_improvement": "Улучшает гибкость квадрицепсов, что важно для прыжков и быстрых движений.",
+      "balance_proprioception": false,
+      "scientific_source": "https://www.verywellfit.com/a-weight-training-workout-for-children-3498516"
+    }
+  ]
+}
